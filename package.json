@@ -1,0 +1,12 @@
+{
+  "name": "xiulin-translator",
+  "version": "1.0.0",
+  "description": "命令行翻译助手",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["translate"],
+  "author": "web.xiulin@gmail.com",
+  "license": "ISC"
+}
