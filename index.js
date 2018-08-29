@@ -10,7 +10,7 @@ var querystring = require('querystring')
 var md5 = require('md5')
 
 program
-  .version('0.0.1')
+  .version('1.0.0')
   .description('🍻  欢迎使用 翻译小助手 🍻')
   .option('-e, --en', 'Add English word')
   .option('-z, --zh', 'Add Chinese word')
