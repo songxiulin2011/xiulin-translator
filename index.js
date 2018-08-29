@@ -32,7 +32,6 @@ if (program.en || program.zh) {
     'sign': sign
   }
   var content = querystring.stringify(params)
-  console.log(content)
   var options = {
     hostname: 'api.fanyi.baidu.com',
     port: 80,
