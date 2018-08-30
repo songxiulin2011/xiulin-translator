@@ -9,7 +9,7 @@ npm install xiulin-translator -g
 
 
 ```
-  Usage: xl [options]
+  Usage: translator [options]
 
   🍻  欢迎使用 翻译小助手 🍻
 
