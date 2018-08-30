@@ -27,7 +27,7 @@ npm install xiulin-translator -g
 ### en -> zh
 
 ```
-xl -e apple
+translator -e apple
 ```
 
 Output:
@@ -43,7 +43,7 @@ apple 的翻译结果为：
 
 
 ```
-xl -z 苹果
+translator -z 苹果
 ```
 
 Output:
